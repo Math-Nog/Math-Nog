@@ -1,6 +1,6 @@
 # Olá! 👋 Sou o Matheus
 
-### Estudante de Computação (UFBA) | Pesquisador em NLP & Inteligência Artificial
+### Estudante de Ciência da Computação (UFBA) | Pesquisador em NLP & Inteligência Artificial
 
 Sou um desenvolvedor em formação e profundamente envolvido com pesquisa e disseminação de conhecimento em tecnologia. Tenho forte interesse nas áreas de Dados, Machine Learning e Inteligência Artificial, mas também transito muito bem no ecossistema de Engenharia de Software. Atualmente, estou em busca da minha primeira oportunidade de estágio na área de computação.
 
