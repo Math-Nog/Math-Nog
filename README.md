@@ -9,7 +9,7 @@ Sou um desenvolvedor em formação e profundamente envolvido com pesquisa e diss
 ### 👨‍💻 Sobre mim
 
 - 🔬 Faço parte do grupo de pesquisa **FORMAS (UFBA)**, com foco em Processamento de Linguagem Natural (PLN).
-- 🎓 Atuo na Diretoria Acadêmica da **LIAO** (Liga Acadêmica de Inteligência Artificial e Otimização da UFBA), organizando trilhas, capacitações e núcleos internos sobre IA, Engenharia de Software e Otimização.
+- 🎓 Atuo no Departamento Acadêmico da **LIAO** (Liga Acadêmica de Inteligência Artificial e Otimização da UFBA), organizando trilhas, capacitações e núcleos internos sobre IA, Engenharia de Software e Otimização.
 - 🌱 Atualmente buscando aplicar meus conhecimentos em um **estágio em Dados, ML, IA ou Software**.
 - ⚡ Curiosidade: Quando não estou programando ou pesquisando, estou tocando violão, lendo, jogando futsal, curtindo videogames ou imerso na cultura geek.
 
